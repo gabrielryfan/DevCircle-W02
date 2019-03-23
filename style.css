@@ -1,0 +1,10 @@
+.calculator__keys { 
+  display: grid; 
+  /* other necessary CSS */ 
+}
+
+.tombol{
+
+  width: 2em ; height: 2em ;
+  font-size : 40px;
+}
